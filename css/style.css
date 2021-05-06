@@ -1,7 +1,7 @@
 html {
     overflow: auto;
     scroll-behavior: smooth;
-    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -webkit-tap-highlight-color: transparent;
 }
 
 html::-webkit-scrollbar {
