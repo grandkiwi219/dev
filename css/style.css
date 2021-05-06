@@ -38,6 +38,11 @@ a:hover {
     color: silver;
 }
 
+hr {
+    border: solid 0.1px silver;
+    width: 95%;
+}
+
 #menu {
     width: 100%;
     height: 50px;
