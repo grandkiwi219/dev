@@ -86,8 +86,8 @@ hr {
     width: 100%;
     height: 100%;
     font-family: cookieRun;
-    vertical-align: middle;
     text-align: center;
+    magin: auto 0;
 }
 
 .max-width {
