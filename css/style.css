@@ -129,4 +129,5 @@ hr {
 .max-width {
     margin: 0 auto;
     max-width: 1300px;
+    padding: 0 15px 0 15px;
 }
