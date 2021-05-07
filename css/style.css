@@ -122,7 +122,7 @@ hr {
     justify-content: space-around;
     animation-name: main;
     animation-delay: 1s;
-    animation-duration: 3s;
+    animation-duration: 5s;
     animation-fill-mode: forwards;
 }
 
