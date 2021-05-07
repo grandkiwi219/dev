@@ -87,7 +87,7 @@ hr {
     position: fixed;
     box-shadow: 3px 0 5px 5px rgba(192, 192, 192, 0.6);
     animation-name: show;
-    animation-duration: 3s;
+    animation-duration: 2s;
 }
 
 #menu-text {
@@ -117,7 +117,8 @@ hr {
     font-size: 50px;
     text-align: center;
     animation-name: main;
-    animation-duration: 4s;
+    animation-delay: 1s;
+    animation-duration: 3s;
 }
 
 .max-width {
