@@ -7,6 +7,11 @@
     font-style: normal;
 }
 
+@keyframes show {
+    from { display: none; }
+    to { display: inline; }
+}
+
 @keyframes window {
     0% { margin-left: 100%; }
     30% { margin-left: 45%; }
