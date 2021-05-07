@@ -84,7 +84,7 @@ a.button {
     width: 100%;
     padding: 15px;
     color: black;
-    border-radius: 12px;
+    border-radius: 30px;
     background-color: white;
     box-shadow: 0 0 5px silver;
     transition: color 1s, background-color 1s, box-shadow 1s;
