@@ -86,7 +86,7 @@ a.button {
     color: black;
     border-radius: 12px;
     background-color: white;
-    box-shadow: 0 0 5px;
+    box-shadow: 0 0 5px silver;
     transition: color 1s, background-color 1s, box-shadow 1s;
 }
 
