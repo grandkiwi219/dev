@@ -79,6 +79,7 @@ hr {
     z-index: -1;
     float: left;
     overflow: hidden;
+    background-color: rgba(0,0,0,0.3);
 }
 
 #main {
