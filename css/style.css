@@ -79,7 +79,12 @@ hr {
     z-index: -1;
     float: left;
     overflow: hidden;
-    background-color: rgba(0,0,0,0.3);
+    background-color: rgba(0,0,0,0.1);
+    background-image: url('https://grandkiwi.kro.kr/img/background.png');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 #main {
