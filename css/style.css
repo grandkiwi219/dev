@@ -87,7 +87,7 @@ hr {
     position: fixed;
     box-shadow: 3px 0 5px 5px rgba(192, 192, 192, 0.6);
     animation-name: show;
-    animation-duration: 2s;
+    animation-duration: 3s;
 }
 
 #menu-text {
