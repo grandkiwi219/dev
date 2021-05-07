@@ -98,7 +98,6 @@ hr {
     background-color: rgba(0,0,0,0.1);
     background-image: url('https://grandkiwi.kro.kr/img/background.png');
     background-size: cover;
-    background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
     animation-name: window;
