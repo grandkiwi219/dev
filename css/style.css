@@ -9,8 +9,8 @@
 
 @keyframes window {
     0% { margin-left: 100%; }
-    40% { margin-left: 45%; }
-    60% { margin-left: 15%; }
+    30% { margin-left: 45%; }
+    55% { margin-left: 15%; }
     80% { margin-left: 5%; }
     100% { margin-left: 0%; }
 }
