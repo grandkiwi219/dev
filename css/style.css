@@ -92,7 +92,7 @@ a.button {
 
 a.button:hover {
     color: white;
-    background-color: #42f560;
+    background-color: #4ff774;
     box-shadow: 0px 0px 12px #8cffa5;
     transition: color 1s, background-color 1s, box-shadow 1s;
 }
