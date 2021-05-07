@@ -8,8 +8,8 @@
 }
 
 @keyframes show {
-    from { display: none; }
-    to { display: inline; }
+    0% { padding-top: 30px; color: rgba(0, 0, 0, 0); background-color: rgba(255, 255, 255, 0); box-shadow: 3px 0 5px 5px rgba(192, 192, 192, 0); }
+    100% { padding-top: 15px; color: rgba(0, 0, 0, 1); background-color: rgba(255, 255, 255, 0.5); box-shadow: 3px 0 5px 5px rgba(192, 192, 192, 0.6); }
 }
 
 @keyframes window {
@@ -79,9 +79,9 @@ hr {
     background-color: rgba(255, 255, 255, 0.5);
     text-align: right;
     position: fixed;
-    box-shadow: 3px 0 5px 5px silver;
+    box-shadow: 3px 0 5px 5px rgba(192, 192, 192, 0.6);
     animation-name: show;
-    animation-duration: 3s;
+    animation-duration: 2s;
 }
 
 #menu-text {
