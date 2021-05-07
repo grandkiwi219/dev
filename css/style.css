@@ -86,3 +86,8 @@ hr {
     height: 100%;
     font-family: cookieRun;
 }
+
+.max-width {
+    margin: 0 auto;
+    max-width: 1300px;
+}
