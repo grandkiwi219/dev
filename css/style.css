@@ -72,6 +72,12 @@ a:hover {
 
 #footer div a {
     color: white;
+    transition: color 1s;
+}
+
+#footer div a:hover {
+    color: rgb(120, 120, 120);
+    transition: color 1s;
 }
 
 hr {
