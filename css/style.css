@@ -100,7 +100,7 @@ a.button:hover {
 
 hr {
     border: solid 0.1px silver;
-    width: 100%;
+    width: 95%;
 }
 
 #ui {
@@ -174,5 +174,4 @@ hr {
     margin: 0 auto;
     max-width: 1300px;
     width: 100%;
-    padding: 0 15px 0 15px;
 }
