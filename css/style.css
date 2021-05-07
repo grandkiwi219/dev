@@ -80,6 +80,8 @@ hr {
     text-align: right;
     position: fixed;
     box-shadow: 3px 0 5px 5px silver;
+    animation-name: show;
+    animation-duration: 3s;
 }
 
 #menu-text {
