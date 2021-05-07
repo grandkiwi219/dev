@@ -70,6 +70,10 @@ a:hover {
     transition: color 1s;
 }
 
+#footer div a {
+    color: white;
+}
+
 hr {
     border: solid 0.1px silver;
     width: 100%;
