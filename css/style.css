@@ -80,6 +80,23 @@ a:hover {
     transition: color 1s;
 }
 
+a.button {
+    width: 100%;
+    padding: 15px;
+    color: black;
+    border-radius: 12px;
+    background-color: white;
+    box-shadow: 0 0 1px;
+    transition: color 1s, background-color 1s, box-shadow 1s;
+}
+
+a.button:hover {
+    color: white;
+    background-color: #42f560;
+    box-shadow: 0px 0px 5px #8cffa5;
+    transition: color 1s, background-color 1s, box-shadow 1s;
+}
+
 hr {
     border: solid 0.1px silver;
     width: 100%;
@@ -142,7 +159,7 @@ hr {
 #desc {
     width: 100%;
     padding: 20px 0 20px 0;
-    background-color: white;
+    background-color: #f7f7f7;
 }
 
 #footer {
