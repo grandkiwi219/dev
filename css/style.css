@@ -116,6 +116,9 @@ hr {
     font-family: cookieRun;
     font-size: 50px;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
     animation-name: main;
     animation-delay: 1s;
     animation-duration: 3s;
