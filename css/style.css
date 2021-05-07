@@ -129,6 +129,18 @@ hr {
     animation-fill-mode: forwards;
 }
 
+#desc {
+    width: 100%;
+    padding: 20px 0 20px 0;
+    background-color: white;
+}
+
+#footer {
+    width: 100%;
+    padding: 20px 0 20px 0;
+    background-color: black;
+}
+
 .max-width {
     margin: 0 auto;
     max-width: 1300px;
