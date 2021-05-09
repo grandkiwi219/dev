@@ -83,6 +83,7 @@ a:hover {
 a.button {
     display: inline-block;
     width: 90%;
+    max-width: 1100px;
     margin: 0 auto;
     padding: 15px;
     color: black;
