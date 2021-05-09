@@ -62,12 +62,12 @@ body {
 a {
     color: black;
     text-decoration: none;
-    transition: color 1s;
+    transition: color 0.7s;
 }
 
 a:hover {
     color: silver;
-    transition: color 1s;
+    transition: color 0.7s;
 }
 
 #footer div a {
