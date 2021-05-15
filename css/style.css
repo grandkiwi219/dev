@@ -80,6 +80,16 @@ a:hover {
     transition: color 1s;
 }
 
+#footer-box div div a {
+    color: white;
+    transition: color 1s;
+}
+
+#footer-box div div a:hover {
+    color: rgb(120, 120, 120);
+    transition: color 1s;
+}
+
 a.button {
     display: block;
     width: 90%;
