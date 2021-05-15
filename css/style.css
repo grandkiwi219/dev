@@ -170,11 +170,26 @@ hr {
     padding: 70px 0 20px 0;
 }
 
+#box {
+    width: 100%;
+    min-height: 100%;
+    position: relative;
+}
+
 #footer {
     width: 100%;
     padding: 20px 0 20px 0;
     background-color: black;
     color: white;
+}
+
+#footer-p {
+    width: 100%;
+    padding: 20px 0 20px 0;
+    background-color: black;
+    color: white;
+    bottom: 0;
+    position: absolute;
 }
 
 .text-box {
