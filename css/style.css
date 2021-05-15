@@ -181,6 +181,7 @@ hr {
 
 #desc-p {
     width: 100%;
+    min-height: 70%;
     padding: 70px 0 20px 0;
     background-color: #f7f7f7;
 }
