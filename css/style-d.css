@@ -52,9 +52,11 @@ a:hover {
     transition: color 0.7s;
 }
 
-hr {
-    border: solid 0.1px silver;
+.hr {
+    height: 0.2px;
     width: 95%;
+    display: block;
+    background-color: rgb(230, 230, 230);
 }
 
 #ui {
