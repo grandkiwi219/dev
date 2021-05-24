@@ -32,6 +32,11 @@ html {
     -webkit-tap-highlight-color: transparent;
 }
 
+html::-webkit-scrollbar {
+      width:13px;
+      border-radius:10px;
+}
+
 html::-webkit-scrollbar-thumb {
       background-color:#1fdb51;
       border-radius:10px;
