@@ -8,8 +8,8 @@
 }
 
 @keyframes show {
-    0% { margin: 20px; }
-    100% { margin: 0; }
+    0% { margin: 20px; opacity: 0; }
+    100% { margin: 0; opacity: 1; }
 }
 
 html {
@@ -76,6 +76,8 @@ a:hover {
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
+    animation-name: show;
+    animation-duration: 1s;
 }
 
 #desc {
@@ -86,6 +88,8 @@ a:hover {
     max-height: 80%;
     padding: 15px 0 15px 0;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.6);
-    animation-name: show;
-    animation-duration: 1s;
+}
+
+#box {
+    display: block;
 }
