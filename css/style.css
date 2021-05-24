@@ -80,6 +80,7 @@ a:hover {
 }
 
 a.button {
+    text-align: center;
     display: block;
     width: 80%;
     max-width: 1100px;
