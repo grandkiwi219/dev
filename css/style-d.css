@@ -87,5 +87,5 @@ a:hover {
     padding: 15px 0 15px 0;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.6);
     animation-name: show;
-    animation-duration: 2s;
+    animation-duration: 1s;
 }
