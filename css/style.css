@@ -99,9 +99,12 @@ a.button:hover {
     transition: color 0.7s, background-color 1s, box-shadow 1s;
 }
 
-hr {
-    border: solid 0.1px silver;
+.hr {
+    margin: 9px 0 9px 0;
+    height: 0.5px;
     width: 95%;
+    display: block;
+    background-color: rgb(230, 230, 230);
 }
 
 #ui {
