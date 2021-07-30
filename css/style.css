@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
 
 @font-face{
-    font-family: tmoneyroundwindregular;
-    src: url(https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-07@1.0/TmoneyRoundWindRegular.woff) format("woff");
+    font-family: tmoneyroundwindbold;
+    src: url(https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-07@1.0/TmoneyRoundWindBold.woff) format("woff");
     font-weight: 400;
     font-style: normal;
 }
