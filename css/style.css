@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
 
 @font-face {
     font-family: cookieRun;
@@ -41,7 +41,7 @@ body {
     color: black;
     background-color: #f7f7f7;
     overflow-x: hidden;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Noto Sans KR', sans-serif;
 }
 
 #body {
