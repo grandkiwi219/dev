@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
 
-@font-face {
-    font-family: cookieRun;
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.0/CookieRunOTF-Bold00.woff') format('woff');
-    font-weight: normal;
+@font-face{
+    font-family: tmoneyroundwindregular;
+    src: url(https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-07@1.0/TmoneyRoundWindRegular.woff) format("woff");
+    font-weight: 400;
     font-style: normal;
 }
 
@@ -150,7 +150,7 @@ a.button:hover {
     text-shadow: 2px 2px 2px rgba(50, 50, 50, 0);
     width: 100%;
     height: 100%;
-    font-family: cookieRun;
+    font-family: tmoneyroundwindregular;
     font-size: 70px;
     text-align: center;
     display: flex;
